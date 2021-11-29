@@ -18,3 +18,8 @@ h1 {
     font-weight: bold;
     font-family: Georgia, serif;
 }
+
+.btn:hover {
+    background-color: grey;
+    transform: scale(1.2);
+}
